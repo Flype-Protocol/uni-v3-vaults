@@ -12,3 +12,13 @@ Local testing:
 yarn
 yarn compile
 yarn test
+
+Deployment addresses:
+
+| Contract                 |                  Arbitrum                  |
+| ------------------------ | :----------------------------------------: |
+| FlypeMaxiVaultV1         | 0xEfb4454DDfC405518F6Db9Afc29129f4F8752B01 |
+| FlypeMaxiFactoryV1       | 0x480980Bb5f7fb8876d11fC7b667abf70869c6D2E |
+| FlypeMaxiFactoryV1 Proxy | 0xED1831F634F5433Ae786Fce06356071e96Fc4644 |
+| FlypeMaxiRouter          | 0x83A8Ff5C89cee8AFCDFeeA334badc5646e36a768 |
+| FlypeMaxiRouter Proxy    | 0x23deAbFcF347B43400337C683bceCF3aF790a788 |
